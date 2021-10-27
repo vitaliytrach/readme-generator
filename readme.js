@@ -22,7 +22,7 @@ ${input.usr} - [GitHub Profile](https://github.com/${input.username})
 ## License
 This product is licensed under the ${input.license} license.
 ## How to Contribute
-${input.countributions}
+${input.contributions}
 ## Tests
 ${input.test}
 ## Questions
